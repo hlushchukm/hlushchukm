@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Maksym Hlushchuk</h1>
 <h3 align="center">💵 Helping businesses earn more money. 💵</h3>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
   
@@ -118,16 +118,4 @@ SoftServe**
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
-</div>
-
-<div align="center">
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/> 
-  </div>
-       ㅤㅤㅤㅤ
-    <div align="center">  
-  <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
-  </div>
-   ㅤㅤㅤㅤㅤㅤㅤㅤ
-<div align="center">
-<a href="https://u8views.com/github/EuJinnLucaShow"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
 </div>
